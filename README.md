@@ -1,4 +1,2 @@
 # adfin
-usage :
-
-python2 adfin.py
+Admin finder with py
